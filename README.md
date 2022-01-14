@@ -1,20 +1,18 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 **<h1 align="center">Hi there 👋🏾,  I'm Abz.</h1>**
+
 <h3 align="center">I'm a passionate Full Stack Developer from London.</h3>
 
+<br/>
 
 ## 🙋🏿‍♂️ About Me
-
-
 - 🌱 I’m currently learning **React, Java & Spring Boot.**
-
-
 
 - 👨🏾‍💻 All of my projects are available at **[My Portfolio](https://ab-96.github.io/web-portfolio/)**
 
-
 - ⚡ Fun fact **I play games and go to the gym very often.**
+
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -42,7 +40,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
 <br/>
 
 ## Socials
