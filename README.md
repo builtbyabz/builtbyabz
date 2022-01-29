@@ -1,11 +1,13 @@
 
-**<h1 align="center">Hi there 👋🏾,  I'm Abz.</h1>**
+**<h2 align="center">Hi there 👋🏾,  I'm Abz.</h2>**
 
-<h3 align="center">I'm a passionate Full Stack Developer from London.</h3>
+<h3 align="center">I'm a passionate junior Software Engineer from London.</h3>
 
 <br/>
 
-## 🙋🏿‍♂️ About Me
+## About Me
+- ✅ I’ve just completed a 12 week intensive Full Stack Developer course at _Nology
+
 - 🌱 I’m currently learning **React, Java & Spring Boot.**
 
 - 👨🏾‍💻 All of my projects are available at **[My Portfolio](https://ab-96.github.io/web-portfolio/)**
@@ -14,7 +16,7 @@
 
 <br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages & Tools:
 <p>
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -41,9 +43,8 @@
 
 <br/>
 
-## Socials
-
-<a href = "https://www.linkedin.com/in/abdul-oketunde/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+## Socials <a href = "https://www.linkedin.com/in/abdul-oketunde/"></a>
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 
 
 
