@@ -7,7 +7,7 @@
 
 ## About Me
 
-- ✏️ Passionate about continuously learning - currently learning focused on mastering **REACT and Data Structures and Algorithms**
+- ✏️ Passionate about continuously learning - currently focused on mastering **REACT and Data Structures and Algorithms**
 
 - 👨🏾‍💻 All of my projects are available at **[My Portfolio](https://ab-96.github.io/web-portfolio/)**
 
